@@ -67,62 +67,6 @@ if __name__=="__main__":
   print(s.size())
 
 
-
-## Some Methods
-
-- append(item): add item to top of stack
-- push(item): push item to the top of the stack
-- pop(item): remove and return the top item 
-- peek(item): return the top item without removing item
-- is_empty(item): return true if the stack is is_empty
-
-## More
-
-Stack inserttion and deletion happpen at the same time 
-
-## Application
-
-- reverse polish notation for evaluating arithmetic expressions
-- Syntax parsing
-- Cold Stack
-- Used in recursion
-- Undo and redo operations in word processors
-- Low level assembly programming 
-
-## Simple program 
-
-```python
-class Stack:
-  def __init__(self):
-    self.items=[]
-  def is_empty(self):
-    return not self.items
-  def push(self,item):
-    self.items.append(item)
-  def pop(self):
-    return self.items.pop()
-  def peek(self):
-    return self.items[-1]
-  def size(self):
-    return len(self.items)
-  def __str__(self):
-    return str(self.items)
-
-if __name__=="__main__":
-  s=Stack()
-  print(s)
-  print(s.is_empty())
-  s.push(3)
-  s.push(7)
-  s.push(5)
-  print(s)
-  print(s.pop())
-  print(s)
-  print(s.peek())
-  print(s.size())
-
-
-
 ## Reverse the order
 
 Characters that are pushed last first are popped last
