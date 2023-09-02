@@ -75,7 +75,8 @@ if __name__=="__main__":
 
 ## Reverse the order
 
-Characters that are pushed last first are popped last
+Characters that are pushed first are popped last or
+Characters that are pushed last are popped first(LIFO)
 ```python
 class Stack:
   def __init__(self):
