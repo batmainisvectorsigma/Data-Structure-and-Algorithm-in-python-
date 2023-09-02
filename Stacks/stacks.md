@@ -1,6 +1,5 @@
 
 
-
 # Stack in python
 
 Here I am going to write about stacks in python 
