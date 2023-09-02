@@ -1,5 +1,9 @@
 
 
+
+
+
+
 # Stack in python
 
 Here I am going to write about stacks in python 
@@ -65,6 +69,8 @@ if __name__=="__main__":
   print(s)
   print(s.peek())
   print(s.size())
+
+
 
 
 ## Reverse the order
