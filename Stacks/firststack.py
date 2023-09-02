@@ -1,3 +1,5 @@
+#Read stacks.md to know more about about stacks 
+# stacks.md file is in Stacks directory
 class Stack:
   def __init__(self):
     self.items=[]
