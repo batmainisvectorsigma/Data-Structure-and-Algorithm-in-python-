@@ -1,3 +1,6 @@
+#Read stacks.md to know more about about stacks 
+# stacks.md file is in Stacks directory
+#Write a program to reverse the order
 class Stack:
   def __init__(self):
     self.items=[]
