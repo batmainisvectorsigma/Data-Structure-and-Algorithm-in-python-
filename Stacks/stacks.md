@@ -105,3 +105,5 @@ if __name__=="__main__":
   print(reversed_string)
 
 #output Learn a lot with LinkedIn
+
+#Today
