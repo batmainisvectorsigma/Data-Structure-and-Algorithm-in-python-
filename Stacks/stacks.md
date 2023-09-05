@@ -106,4 +106,3 @@ if __name__=="__main__":
 
 #output Learn a lot with LinkedIn
 
-#Today
