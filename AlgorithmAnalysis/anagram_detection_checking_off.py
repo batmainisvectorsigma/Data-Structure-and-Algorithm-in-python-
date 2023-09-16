@@ -68,3 +68,10 @@ def anagram_solution(s1, s2):
 print(anagram_solution('heart', 'earth'))  # True
 print(anagram_solution('python', 'typhon'))  # True
 print(anagram_solution('apple', 'pale'))  # False
+
+
+"""
+analysing this algorithm 
+As n gets large the n2 term will dominate the n term and the 1/2 can be ignored.
+Therefore this solution is O(n^2)
+"""
