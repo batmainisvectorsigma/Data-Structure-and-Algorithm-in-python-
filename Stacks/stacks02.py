@@ -28,4 +28,3 @@ if __name__=="__main__":
   print(reversed_string)
 
 
-#more updates will be available soon
