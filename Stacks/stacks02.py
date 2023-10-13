@@ -27,4 +27,7 @@ if __name__=="__main__":
     reversed_string +=s.pop()  #are popped first
   print(reversed_string)
 
+#am I a Lazy person seriously
+
+
 
