@@ -1,5 +1,5 @@
 #This program is checking if the String have balanced parentheses or not
-# Means to say that if it have a opening parentheses it should also have closing parentheses
+# Means to say that if it have a opening parentheses it should also have closing parentheses.
 class Stack:
     def __init__(self):
         self._items=[]
