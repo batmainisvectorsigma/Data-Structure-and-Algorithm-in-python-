@@ -28,3 +28,8 @@ def divide_by_2(decimal_num):
 
 print(divide_by_2(42))
 print(divide_by_2(31))
+"""
+Output
+101010
+11111
+"""
