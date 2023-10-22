@@ -31,3 +31,4 @@ s.push(8.4)
 print(s.pop())
 print(s.pop())
 print(s.size())
+#ahham
