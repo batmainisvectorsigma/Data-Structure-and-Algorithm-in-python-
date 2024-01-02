@@ -21,9 +21,9 @@ def tree(branchLen,t):
     if branchLen > 5:
         t.forward(branchLen)
         t.right(20)
-        tree(branchLen-15,t)
+        tree(branchLen-15,t) #this is the first recursion
         t.left(40)
-        tree(branchLen-15,t)
+        tree(branchLen-15,t) #this is the second recursion 
         t.right(20)
         t.backward(branchLen)
 
