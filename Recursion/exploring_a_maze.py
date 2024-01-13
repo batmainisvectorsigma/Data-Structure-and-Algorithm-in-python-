@@ -1,3 +1,5 @@
+#There is my unsolved solution 
+#it is already solved but I haven't tried it yet
 import turtle
 
 PART_OF_PATH = 'O'
