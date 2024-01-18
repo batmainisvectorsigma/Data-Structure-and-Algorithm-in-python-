@@ -1,3 +1,6 @@
+#There is my unsolved solution 
+#it is already solved but I haven't tried it yet
+
 def recDC(coinValueList, change, knownResults):
     minCoins = change
     if change in coinValueList:
