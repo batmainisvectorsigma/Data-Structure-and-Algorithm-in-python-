@@ -28,3 +28,19 @@ print(binarySearch(testlist, 13))
     WE FIND THE MID AND CHECK WHETHER IT IS THE ITEM OR NOT
     AND WE WILL AGAIN KEEP BREAKING THE LIST UNTIL AND UNLESS WE DON'T GET THAT ITEM
 """
+
+
+"""
+            ALGORITHM ANALYSIS
+comparsion                     approximate number of items left
+1                               n/2
+2                               n/4
+3                               n/8
+.....
+i                               n/2^i
+
+            COMPLEXITY
+i = logn
+binar search : O(logn)
+slice operator : O(k)
+"""
