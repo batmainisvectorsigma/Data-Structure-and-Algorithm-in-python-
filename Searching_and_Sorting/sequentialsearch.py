@@ -64,3 +64,9 @@ OUTPUT
 False
 True
 """
+
+"""
+        ALGORITHM ANALYSIS
+The complexity is the same as the upper Algorithms.
+Amd everything is the same.
+"""
