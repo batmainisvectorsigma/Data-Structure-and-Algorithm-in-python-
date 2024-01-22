@@ -1,3 +1,7 @@
+# hashing a string called cat 
+"""
+HASHING STRING USING ORDINAL VALUE
+"""
 def hash(astring, tablesize):
     sum = 0
     for pos in range(len(astring)):
@@ -8,3 +12,7 @@ def hash(astring, tablesize):
 print(hash("cat",11))
 #output
 # 4
+
+"""
+HASHING STRING USING ORDINAL VALUE WITH WEIGHTHING
+"""
