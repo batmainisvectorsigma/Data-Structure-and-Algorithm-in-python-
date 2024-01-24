@@ -1,6 +1,8 @@
 # hashing a string called cat 
 """
 HASHING STRING USING ORDINAL VALUE
+IF I USE TAC WHICH IS ANAGRRAM OF CAT 
+HERE WE CAN SEE THE COLLISION
 """
 def hash(astring, tablesize):
     sum = 0
@@ -15,4 +17,5 @@ print(hash("cat",11))
 
 """
 HASHING STRING USING ORDINAL VALUE WITH WEIGHTHING
+WE USE THIS TECHNIQUE TO AVOID COLLISION
 """
