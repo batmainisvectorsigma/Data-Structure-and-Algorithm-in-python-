@@ -20,5 +20,7 @@ print(alist)
       EXPLAINATION
 fillslot = 9 - 1 = 8
 
+      TIME COMPLEXITY
+O(n2)
 """
 
