@@ -1,4 +1,5 @@
 # Explaination of the code will be published soon
+# the question comes but when 
 def selectionSort(alist):
     for fillslot in range(len(alist)-1, 0, -1):
         positionOfMax = 0
