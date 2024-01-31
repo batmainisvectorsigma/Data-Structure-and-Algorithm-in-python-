@@ -1,4 +1,6 @@
 # Explaination of the code will be published soon
+# in first inner loop the max value will be found
+# and even less items will be sorted out
 # the question comes but when 
 def selectionSort(alist):
     for fillslot in range(len(alist)-1, 0, -1):
