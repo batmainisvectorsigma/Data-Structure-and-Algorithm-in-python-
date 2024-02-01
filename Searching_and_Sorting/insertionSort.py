@@ -15,6 +15,9 @@ insertionSort(alist)
 print(alist)
 
 """
+   TIME COMPLEXITY
+O(n^2)
+
  OUTPUT
 [17, 20, 26, 31, 44, 54, 55, 77, 93]
 
