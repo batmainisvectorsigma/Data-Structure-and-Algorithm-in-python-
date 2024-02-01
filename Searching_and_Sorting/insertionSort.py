@@ -34,7 +34,19 @@ index 3 = 93
 position = 2
 
 second loop 
+54 > 17
+index 2 = 93
+position = 1
 
+third loop 
+26 > 17
+index 1 = 26
+position = 0
 
+alist[0] = 17 that is
+index 0 = 17
 
+the whole table
+index 0   index 1 index 2  index 3
+17          26      54       93
 """
