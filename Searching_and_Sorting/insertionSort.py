@@ -19,9 +19,9 @@ print(alist)
 [17, 20, 26, 31, 44, 54, 55, 77, 93]
 
   EXPLAINATION
-when n = 3
+when n = 3 or index = 3 
 all the items from index 3 to below that is 
-4 items gets sorted
+4 items gets sorted that is 54 26 93 17 is sorted 
 
 IN MORE DETAIL EXPLAINATION
 index = 3
